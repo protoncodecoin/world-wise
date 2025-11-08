@@ -35,6 +35,30 @@
         "lng": 13.376933665713324
       },
       "id": 98443197
+    },
+    {
+      "cityName": "Belchite",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-10-20T22:49:15.876Z",
+      "notes": "Vacation",
+      "position": {
+        "lat": "41.31035387517432",
+        "lng": "-0.808739006726611"
+      },
+      "id": 98443199
+    },
+    {
+      "cityName": "Shoshoni",
+      "country": "United States of America (the)",
+      "emoji": "🇺🇸",
+      "date": "2025-10-20T23:02:13.031Z",
+      "notes": "Went for horse riding",
+      "position": {
+        "lat": "42.991286034482066",
+        "lng": "-107.53102340222411"
+      },
+      "id": 98443202
     }
   ]
 }
